@@ -16,6 +16,10 @@ public class Manager extends Employee{
         return baseSalary + bouns;
     }
 
+    public double getBouns(){
+        return bouns;
+    }
+
     public void setBouns(double bouns){
         this.bouns = bouns;
     }
