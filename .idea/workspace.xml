@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f7d500e-79cd-4dc5-8f7e-dc208a0c9183" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/staticInnerClass/StaticInnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7/Exception/IOExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7/Logging/LoggingImageViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7/assertionTest/assertionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7/stackTrace/StackTraceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/pair1/PairTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/pair2/PairTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/pair3/PairTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8/genericReflection/GeneriicReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/Set/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/linkedList/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/listIterator/ListIteratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Chapter8/pair3/PairTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Chapter8/pair3/PairTest3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,24 +26,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter8/pair3/PairTest3.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter9/Set/SetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="405">
+              <caret line="27" column="94" selection-start-line="27" selection-start-column="94" selection-end-line="27" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1344#1345#0" expanded="true" />
-                <element signature="e#1412#1413#0" expanded="true" />
-                <element signature="e#1462#1463#0" expanded="true" />
-                <element signature="e#1483#1484#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#857#858#0" expanded="true" />
-                <element signature="e#886#887#0" expanded="true" />
-                <element signature="e#930#931#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
-                <element signature="e#1007#1008#0" expanded="true" />
-                <element signature="e#1040#1041#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,10 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/test.txt" />
-        <option value="$PROJECT_DIR$/src/com/Main.java" />
         <option value="$PROJECT_DIR$/src/com/Calendar.java" />
         <option value="$PROJECT_DIR$/src/com/FactoryMethod.java" />
         <option value="$PROJECT_DIR$/src/com/Empoyee.java" />
@@ -120,9 +101,13 @@
         <option value="$PROJECT_DIR$/src/Chapter8/PairTest1.java" />
         <option value="$PROJECT_DIR$/src/Chapter8/PairTest2.java" />
         <option value="$PROJECT_DIR$/src/Chapter8/pair2/PairTest2.java" />
-        <option value="$PROJECT_DIR$/src/Chapter8/Test.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/Manager.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/Test.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/genericReflection/GeneriicReflectionTest.java" />
         <option value="$PROJECT_DIR$/src/Chapter8/pair3/PairTest3.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/ListIteratorTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/linkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/Set/SetTest.java" />
       </list>
     </option>
   </component>
@@ -168,14 +153,7 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter8" type="462c0819:PsiDirectoryNode" />
-              <item name="pair3" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,13 +185,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PairTest3">
-    <configuration name="LoggingImageViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.Logging.LoggingImageViewer" />
+  <component name="RunManager" selected="Application.SetTest">
+    <configuration name="GeneriicReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.genericReflection.GeneriicReflectionTest" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.Logging.*" />
+          <option name="PATTERN" value="Chapter8.genericReflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.pair1.PairTest1" />
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.linkedList.LinkedListTest" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.pair1.*" />
+          <option name="PATTERN" value="Chapter9.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.pair2.PairTest2" />
+    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.listIterator.ListIteratorTest" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.pair2.*" />
+          <option name="PATTERN" value="Chapter9.listIterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.pair3.PairTest3" />
+    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.Set.SetTest" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.pair3.*" />
+          <option name="PATTERN" value="Chapter9.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,13 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="assertionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.assertionTest.assertionTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.Test" />
       <module name="HelloWorld" />
-      <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.assertionTest.*" />
+          <option name="PATTERN" value="Chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,19 +252,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.assertionTest" />
-      <item itemvalue="Application.LoggingImageViewer" />
-      <item itemvalue="Application.PairTest1" />
-      <item itemvalue="Application.PairTest2" />
-      <item itemvalue="Application.PairTest3" />
+      <item itemvalue="Application.GeneriicReflectionTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ListIteratorTest" />
+      <item itemvalue="Application.LinkedListTest" />
+      <item itemvalue="Application.SetTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PairTest3" />
-        <item itemvalue="Application.PairTest2" />
-        <item itemvalue="Application.PairTest1" />
-        <item itemvalue="Application.LoggingImageViewer" />
-        <item itemvalue="Application.assertionTest" />
+        <item itemvalue="Application.SetTest" />
+        <item itemvalue="Application.LinkedListTest" />
+        <item itemvalue="Application.ListIteratorTest" />
+        <item itemvalue="Application.GeneriicReflectionTest" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -307,18 +284,17 @@
       <workItem from="1576748258239" duration="503000" />
       <workItem from="1576768789546" duration="4603000" />
       <workItem from="1576903849972" duration="27556000" />
-      <workItem from="1578470746556" duration="20391000" />
+      <workItem from="1578470746556" duration="32636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104115000" />
+    <option name="totallyTimeSpent" value="116360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,7 +303,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49642345" visible="true" weight="0.34698796" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49642345" visible="true" weight="0.34698796" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2746988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -662,17 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter8/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter8/pair2/PairTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -725,10 +690,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter8/pair3/PairTest3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="-743">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1344#1345#0" expanded="true" />
@@ -743,6 +715,43 @@
             <element signature="e#962#963#0" expanded="true" />
             <element signature="e#1007#1008#0" expanded="true" />
             <element signature="e#1040#1041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/genericReflection/GeneriicReflectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1238">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/linkedList/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/listIterator/ListIteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/Set/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="94" selection-start-line="27" selection-start-column="94" selection-end-line="27" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
