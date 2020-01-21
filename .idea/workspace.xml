@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f7d500e-79cd-4dc5-8f7e-dc208a0c9183" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/genericReflection/GeneriicReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/Set/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/linkedList/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter9/listIterator/ListIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/map/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/priorityQueue/PriorityQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/shuffle/ShuffleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/sieve/Sieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/treeSet/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter9/treeSet/TreeSetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Chapter8/pair3/PairTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Chapter8/pair3/PairTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Chapter5/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Chapter5/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Employee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,16 +25,37 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter9/Set/SetTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter9/map/MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="94" selection-start-line="27" selection-start-column="94" selection-end-line="27" selection-end-column="94" />
+            <state relative-caret-position="345">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter9/shuffle/ShuffleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter9/sieve/Sieve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -49,6 +72,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>setid</find>
+      <find>LocaleDate</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,18 +81,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Calendar.java" />
-        <option value="$PROJECT_DIR$/src/com/FactoryMethod.java" />
-        <option value="$PROJECT_DIR$/src/com/Empoyee.java" />
-        <option value="$PROJECT_DIR$/src/com/StaticTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ParamTest.java" />
-        <option value="$PROJECT_DIR$/src/com/PackageTest.java" />
         <option value="$PROJECT_DIR$/src/com/hashCode.java" />
         <option value="$PROJECT_DIR$/src/com/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/EmpConTest.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/EqualsTest.java" />
         <option value="$PROJECT_DIR$/src/com/ConstructorTest.java" />
-        <option value="$PROJECT_DIR$/src/Chapter5/Employee.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/ArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/NumberFormat.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/EnumTest.java" />
@@ -108,6 +125,13 @@
         <option value="$PROJECT_DIR$/src/Chapter9/ListIteratorTest.java" />
         <option value="$PROJECT_DIR$/src/Chapter9/linkedList/LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/Chapter9/Set/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/treeSet/Item.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/treeSet/TreeSetTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/priorityQueue/PriorityQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/map/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/shuffle/ShuffleTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/sieve/Sieve.java" />
       </list>
     </option>
   </component>
@@ -155,6 +179,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
+              <item name="sieve" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,13 +216,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetTest">
-    <configuration name="GeneriicReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.genericReflection.GeneriicReflectionTest" />
+  <component name="RunManager" selected="Application.Sieve">
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.map.MapTest" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.genericReflection.*" />
+          <option name="PATTERN" value="Chapter9.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter9.linkedList.LinkedListTest" />
+    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.priorityQueue.PriorityQueueTest" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter9.linkedList.*" />
+          <option name="PATTERN" value="Chapter9.priorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter9.listIterator.ListIteratorTest" />
+    <configuration name="ShuffleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.shuffle.ShuffleTest" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter9.listIterator.*" />
+          <option name="PATTERN" value="Chapter9.shuffle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter9.Set.SetTest" />
+    <configuration name="Sieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.sieve.Sieve" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter9.Set.*" />
+          <option name="PATTERN" value="Chapter9.sieve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.Test" />
+    <configuration name="TreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter9.treeSet.TreeSetTest" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.*" />
+          <option name="PATTERN" value="Chapter9.treeSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,19 +283,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GeneriicReflectionTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.ListIteratorTest" />
-      <item itemvalue="Application.LinkedListTest" />
-      <item itemvalue="Application.SetTest" />
+      <item itemvalue="Application.TreeSetTest" />
+      <item itemvalue="Application.PriorityQueueTest" />
+      <item itemvalue="Application.MapTest" />
+      <item itemvalue="Application.ShuffleTest" />
+      <item itemvalue="Application.Sieve" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetTest" />
-        <item itemvalue="Application.LinkedListTest" />
-        <item itemvalue="Application.ListIteratorTest" />
-        <item itemvalue="Application.GeneriicReflectionTest" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Sieve" />
+        <item itemvalue="Application.ShuffleTest" />
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.PriorityQueueTest" />
+        <item itemvalue="Application.TreeSetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -284,26 +315,27 @@
       <workItem from="1576748258239" duration="503000" />
       <workItem from="1576768789546" duration="4603000" />
       <workItem from="1576903849972" duration="27556000" />
-      <workItem from="1578470746556" duration="32636000" />
+      <workItem from="1578470746556" duration="41756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116360000" />
+    <option name="totallyTimeSpent" value="125480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.501845" side_tool="true" weight="0.27110156" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49642345" visible="true" weight="0.34698796" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49642345" visible="true" weight="0.34698796" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2746988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -330,21 +362,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/clutter/StaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clutter/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/clutter/ParamTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -495,16 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter5/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../javaCore/JavaCode-master/卷一/v1ch06/TimerTest/TimerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -540,16 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/clone/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,6 +750,85 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/treeSet/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/treeSet/TreeSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/priorityQueue/PriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/clone/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/map/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/shuffle/ShuffleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter9/sieve/Sieve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
         </state>
       </provider>
     </entry>
